@@ -1,0 +1,23 @@
+{
+  "name": "@rzfan03/lazycode",
+  "version": "1.0.1",
+  "description": "Tools for lazy programmers",
+  "main": "index.js",
+  "bin": {
+    "lazycode": "./index.js"
+  },
+  "author": "Rzfan03",
+  "license": "MIT",
+  "dependencies": {
+    "@rzfan03/lazycode": "^1.0.1",
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "commander": "^14.0.3",
+    "enquirer": "^2.4.1",
+    "figlet": "^1.10.0",
+    "picocolors": "^1.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
